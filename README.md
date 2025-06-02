@@ -17,6 +17,7 @@ Hi, I'm Joaquin! I'm a young cybersecurity student and developer currently activ
 Here are some projects I'm extra proud of:
 - [Playgrate](https://github.com/scherepi/playgrate), my current Shipwrecked project, is a webapp that lets you migrate playlists from Apple Music to Spotify. More music services are yet to come! (If you want to contribute a scraping module, that'd be awesome!)
 - [Now Playing LCD](https://github.com/scherepi/nowplayingLCD), a really fun little program that displays what I'm currently listening to on a cute LCD display on my desk, using a Flask webserver to authenticate to Spotify through OAuth.
+- [You Throw Me](https://github.com/gusruben/you-throw-me), a game I made with my friends [Gus](https://github.com/gusruben) and Sebastian about throwing your phone. We won **3rd place** at Hack Club's [Scrapyard](https://scrapyard.hackclub.com) hackathon, and got featured by the laptop brand [Framework](frame.work/hacktheworld)!
 - [jschere.com](https://jschere.com), my website!
 
 If you'd like, you can see my stats on [Hackatime](https://hackatime.hackclub.com):
