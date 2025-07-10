@@ -1,23 +1,10 @@
-<!--
-**scherepi/scherepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Joaquin! I'm a young cybersecurity student and developer currently active in [Hack Club](https://hackclub.com). I'm interested in a lot of different technologies and techniques, from Linux (gotta love Kali and Arch) to Java (ITS certified btw) to hardware hacking. I'm currently studying for my **CompTIA Security+** certification, and you can find my personal website at [jschere.com](https://jschere.com). Right now, I'm working on some projects for Hack Club's [Shipwrecked](https://shipwrecked.hackclub.com) event. Hope to see you in Boston!
+Hi, I'm Joaquin! I'm a young cybersecurity student and developer currently active in [Hack Club](https://hackclub.com). I'm interested in a lot of different technologies and techniques, from Linux (Kali, Arch, and Raspbian) to Java (ITS certified btw) to hardware hacking. I'm currently studying for my **CompTIA Security+** certification, and you can find my personal website at [jschere.com](https://jschere.com). Right now, I'm working on some projects for Hack Club's [Shipwrecked](https://shipwrecked.hackclub.com) event. Hope to see you in Boston!
 
 Here are some projects I'm extra proud of:
-- [Playgrate](https://github.com/scherepi/playgrate), my current Shipwrecked project, is a webapp that lets you migrate playlists from Apple Music to Spotify. More music services are yet to come! (If you want to contribute a scraping module, that'd be awesome!)
+- [Conduit](https://github.com/scherepi/conduit), an awesome local tunnel system built in Bun and TypeScript that makes sharing your projects a breeze. Built for Shipwrecked with my friends [Gus](https://github.com/gusruben) and [Sebastian](https://github.com/XDagging).
+- [Playgrate](https://github.com/scherepi/playgrate) is a webapp that lets you migrate playlists from Apple Music to Spotify. More music services are yet to come! (If you want to contribute a scraping module, that'd be awesome!)
 - [Now Playing LCD](https://github.com/scherepi/nowplayingLCD), a really fun little program that displays what I'm currently listening to on a cute LCD display on my desk, using a Flask webserver to authenticate to Spotify through OAuth.
-- [You Throw Me](https://github.com/gusruben/you-throw-me), a game I made with my friends [Gus](https://github.com/gusruben) and Sebastian about throwing your phone. We won **3rd place** at Hack Club's [Scrapyard](https://scrapyard.hackclub.com) hackathon, and got featured by the laptop brand [Framework](frame.work/hacktheworld)!
+- [You Throw Me](https://github.com/gusruben/you-throw-me), a game I made with Gus and Sebastian about throwing your phone. We won **3rd place** at Hack Club's [Scrapyard](https://scrapyard.hackclub.com) hackathon, and got featured by the laptop brand [Framework](frame.work/hacktheworld)!
 - [jschere.com](https://jschere.com), my website!
 
 If you'd like, you can see my stats on [Hackatime](https://hackatime.hackclub.com):
